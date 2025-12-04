@@ -107,7 +107,7 @@
 <style>
 /* Agrega el estilo de fondo usando una clase específica */
 .slider-background {
-  background-image: url('@/assets/images/slider/slider-1.png');
+  background-image: url('@/assets/images/slider/Slider-1.png');
 }
 
 .slider2-background {

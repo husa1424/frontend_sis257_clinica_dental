@@ -53,7 +53,7 @@ function handleGuardar() {
 <style scoped>
 .page-container {
   background: linear-gradient(rgba(36, 0, 144, 0.1), rgba(36, 0, 144, 0.2)),
-    url('@/assets/images/slider/slider-1.png');
+    url('@/assets/images/slider/Slider-1.png');
   background-size: cover;
   background-position: center;
   min-height: 100vh;

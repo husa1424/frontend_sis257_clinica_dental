@@ -16,7 +16,7 @@ const OdontologoListCardRef = ref<typeof OdontologosListCard | null>(null)
 
 <style scoped>
 .slider-background {
-  background-image: url('@/assets/images/slider/slider-1.png');
+  background-image: url('@/assets/images/slider/Slider-1.png');
   background-size: cover;
   background-position: center;
   min-height: 100vh;

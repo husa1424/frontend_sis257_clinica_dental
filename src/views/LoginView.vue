@@ -74,7 +74,7 @@ function onSubmit() {
 <style scoped>
 /* Mantengo tus estilos originales */
 .slider-background {
-  background-image: url('@/assets/images/slider/slider-1.png');
+  background-image: url('@/assets/images/slider/Slider-1.png');
   background-size: cover; /* Asegura que cubra toda el área */
   background-position: center;
   display: flex;
